@@ -1,0 +1,22 @@
+body{
+    background-color:#ccc;
+    font-family: Verdana;
+}
+#title, .subtitle, .post_title {
+    color:blue
+}
+
+.post_title {
+font-size: 16px;
+font-style: italic;
+}
+.post{
+    background-color: #ffffff;
+    padding: 10PX;
+    border: 3px solid #000000;
+    margin:10px;
+ }
+ .post_image{
+     margin-bottom: 10px;
+     width: 100%;
+ }
